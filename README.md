@@ -1,3 +1,3 @@
-#kicode-ucsd.github.io
+Ki Diaz's User Page
 
 My favorite programming language is Java
